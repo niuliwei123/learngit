@@ -1,1 +1,2 @@
 it is nomal text.  this is last change!
+new change
